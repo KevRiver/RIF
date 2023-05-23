@@ -31,11 +31,13 @@
 
 ## 🖼화면
 
-| 에이                                                                                    | 비                                                                                                        |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg)<p align="center"> **메인** </p>   | ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg "하얀 강아지")<p align="center"> **홈** </p>         |
-| ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg)<p align="center"> **로그인** </p> | ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg "하얀 강아지")<p align="center"> **마이페이지** </p> |
-| ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg) <p align="center"> **메인** </p>  | ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg "하얀 강아지")<p align="center"> **홈** </p>         |
+|  |  |
+| - | - |
+| ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg)<p align="center"> **대표업적(메달)설정** </p>   | ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg "하얀 강아지")<p align="center"> **랭킹페이지_로그인시** </p>         |
+| ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg)<p align="center"> **로그인** </p> | ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg "하얀 강아지")<p align="center"> **메인화면_더알아보기** </p> |
+| ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg) <p align="center"> **뽑기5회** </p>  | ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg "하얀 강아지")<p align="center"> **사용기록확인** </p> | ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg) <p align="center"> **asd** </p>  | ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg "하얀 강아지")<p align="center"> **asd** </p>| ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg) <p align="center"> **사용방법** </p>  | ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg "하얀 강아지")<p align="center"> **사용기록확인** </p> |
+| ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg "하얀 강아지")<p align="center"> **사용자검색** </p> | ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg "하얀 강아지")<p align="center"> **사용기록확인** </p> |
+| ![하얀 강아지](https://i.esdrop.com/d/ZklKfna5T3.jpg "하얀 강아지")<p align="center"> **사용자검색후_프로필조회** </p>| |
 
 ## 🙆효과
 
